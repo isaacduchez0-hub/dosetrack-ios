@@ -1,9 +1,11 @@
 import SwiftUI
 
-@main struct MyApp: App {
+@main
+struct DoseTrackApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
         }
     }
 }
+
